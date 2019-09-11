@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ecbb9e-5981-49b2-96a4-912e4c2cb0c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dogekt.iws" beforeDir="false" afterPath="$PROJECT_DIR$/dogekt.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/conf/config.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/conf/config.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
