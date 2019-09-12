@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ecbb9e-5981-49b2-96a4-912e4c2cb0c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/models/user.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dogekt.iws" beforeDir="false" afterPath="$PROJECT_DIR$/dogekt.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/models/migrations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/models/migrations.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/models/database.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/models/database.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
