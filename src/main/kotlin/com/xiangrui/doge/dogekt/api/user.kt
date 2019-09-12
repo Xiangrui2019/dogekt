@@ -1,5 +1,6 @@
 package com.xiangrui.doge.dogekt.api
 
+import com.xiangrui.doge.dogekt.services.UserLoginService
 import io.ktor.routing.Route
 import io.ktor.routing.post
 
@@ -9,6 +10,7 @@ fun Route.register() {
 }
 
 fun Route.login() {
-    post("/user/login") {
+    post<UserLoginService>("/user/login") {
+        it.Login()
     }
 }
