@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ecbb9e-5981-49b2-96a4-912e4c2cb0c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/api/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/serializer/common.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.xiangrui.doge.dogekt.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.xiangrui.doge.dogekt.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/api/user.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dogekt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dogekt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dogekt.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/dogekt.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dogekt.iws" beforeDir="false" afterPath="$PROJECT_DIR$/dogekt.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/api/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/api/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/conf/config.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/conf/config.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/routers/router.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/xiangrui/doge/dogekt/routers/router.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,10 +44,12 @@
   <component name="ProjectId" id="1Qgsp14gzNVmuoOKzD5PEjUqNk7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">

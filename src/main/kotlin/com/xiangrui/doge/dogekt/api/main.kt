@@ -7,7 +7,7 @@ import io.ktor.routing.Route
 import io.ktor.routing.get
 import io.ktor.routing.post
 
-fun Route.main() {
+fun Route.ping() {
     get("/ping") {
         context.respond(HttpStatusCode.OK, Response(200, "Pong"))
     }
