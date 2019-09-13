@@ -9,11 +9,9 @@ import io.ktor.server.netty.Netty
 fun main(args: Array<String>) {
     Load()
 
-    val server = env?.get("ADDR")?.toInt()?.let {
-        embeddedServer(Netty, it) {
-            server()
-        }
+    val server = embeddedServer(Netty, env?.get("ADDR")?.toInt()!!) {
+        server()
     }
 
-    server?.start(wait = true)
+    server.start(wait = true)
 }
