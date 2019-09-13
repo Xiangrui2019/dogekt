@@ -112,6 +112,15 @@
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-kotlin/2.9.9/ebd8a6ed7972fbd346c4873d2e514478148a3e6c/jackson-module-kotlin-2.9.9-sources.jar!/" />
       </SOURCES>
     </library>
+    <library name="Gradle: com.google.code.gson:gson:2.8.5">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/c5b4c491aecb72e7c32a78da0b5c6b9cda8dee0f/gson-2.8.5-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="Gradle: com.google.protobuf:protobuf-java:3.6.1">
       <CLASSES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.1/d06d46ecfd92ec6d0f3b423b4cd81cb38d8b924/protobuf-java-3.6.1.jar!/" />
@@ -272,6 +281,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-freemarker/1.2.3/a56b10bbc2eecdce906e9803d3ffa701cda0b450/ktor-freemarker-1.2.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.ktor:ktor-gson:1.2.3">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-gson/1.2.3/7cd94c89f6f77c2a89aa73262b16bf7891b5e94f/ktor-gson-1.2.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-gson/1.2.3/3159e196b0bab1d99951c5332ec8f5e32564e3ea/ktor-gson-1.2.3-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Gradle: io.ktor:ktor-http-cio-jvm:1.2.3">

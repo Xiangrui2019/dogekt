@@ -36,6 +36,7 @@ dependencies {
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
     compile 'org.jetbrains.exposed:exposed:0.17.3'
     implementation("mysql:mysql-connector-java:8.0.13")
+    compile "io.ktor:ktor-gson:$ktor_version"
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
