@@ -12,7 +12,6 @@ fun Application.module() {
     install(ContentNegotiation) {
         gson {
             setDateFormat(DateFormat.FULL)
-            setPrettyPrinting()
         }
     }
 
